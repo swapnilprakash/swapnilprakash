@@ -116,33 +116,23 @@ I enjoy working across the full application lifecycle — from frontend architec
 
 **MongoDB / Mongoose**
 
-* Schema design
-* Models
-* CRUD
-* Querying
+* Schema design & models
+* CRUD & querying
 * API integration
-* Application persistence
 
 **PostgreSQL**
 
-* SQL fundamentals
-* Relational schema design
-* CRUD operations
-* Queries & joins
-* Indexing concepts
+* Relational design & joins
+* Indexing & constraints
 
 **MySQL / MariaDB**
 
 * SQL fundamentals
 * CRUD operations
-* Basic schema design
-* Relational database concepts
 
 **SQLite**
 
-* Embedded database
-* Local storage
-* Lightweight data persistence
+* Embedded / local storage
 * Prototyping & small apps
 
 </td>
@@ -155,14 +145,14 @@ I enjoy working across the full application lifecycle — from frontend architec
 <img src="https://skillicons.dev/icons?i=docker,vercel,aws,linux,nginx&theme=dark" />
 </p>
 
-* Docker
-* Vercel
-* DigitalOcean
+* Docker & containerization
+* Vercel / DigitalOcean
 * AWS fundamentals
 * Linux servers
-* Production deployment
+* Nginx / reverse proxy
+* CI/CD basics
 * Environment configuration
-* Containerized applications
+* Production deployment
 
 </td>
 </tr>
