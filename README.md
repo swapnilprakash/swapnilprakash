@@ -12,7 +12,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=TypeScript+%7C+Next.js+%7C+React+%7C+Node.js;Building+scalable+full-stack+applications;Backend+APIs+%7C+Cloud+%7C+Docker+%7C+Security;Clean+Architecture+%7C+Maintainable+Code"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=TypeScript+%7C+Next.js+%7C+React+%7C+Node.js;Building+scalable+full-stack+applications;Backend+APIs+%7C+Cloud+%7C+Docker+%7C+Security;Data+Science+%7C+Machine+Learning+%7C+Generative+AI;Clean+Architecture+%7C+Maintainable+Code"
     alt="Typing SVG"
   />
 </a>
@@ -23,56 +23,15 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const swapnil = {
-  name: "Swapnil Prakash",
-  role: "Full-Stack Software Engineer",
-  experience: "6+ years",
+<div align="center">
 
-  primaryStack: [
-    "TypeScript",
-    "Next.js",
-    "React",
-    "Redux Toolkit",
-    "Tailwind CSS",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Mongoose",
-  ],
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Software%20Engineer-6366F1?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Experience-6%2B%20Years-0EA5E9?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Data%20%7C%20AI-312E81?style=for-the-badge" />
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "PHP",
-    "Django",
-    "Flask",
-  ],
-
-  deployment: [
-    "Docker",
-    "Vercel",
-    "DigitalOcean",
-    "AWS",
-  ],
-
-  security: [
-    "Burp Suite",
-    "SQL Injection Concepts",
-    "Frida",
-    "Steganography",
-  ],
-
-  currentlyImproving: [
-    "AWS",
-    "Advanced SQL",
-    "Pandas",
-    "NumPy",
-    "Django",
-    "Flask",
-  ],
-};
-```
+</div>
 
 I am a **Full-Stack Software Engineer with 6+ years of development experience**, primarily focused on the modern JavaScript and TypeScript ecosystem.
 
@@ -296,7 +255,7 @@ Knowledge and practical exposure around:
 
 ---
 
-## 🐍 Python & Data Ecosystem
+## 🐍 Python, Data Science & AI
 
 <div align="center">
 
@@ -304,8 +263,14 @@ Knowledge and practical exposure around:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Data%20Science-Learning-6C63FF?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-Strong-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
@@ -313,7 +278,9 @@ Knowledge and practical exposure around:
 
 I have previous experience with **Django and Flask** and understand their fundamentals, although I am currently refreshing them after spending more time in the JavaScript / TypeScript ecosystem.
 
-I also have foundational knowledge of **Pandas and NumPy** and am working toward stronger practical experience.
+I actively use **Pandas** for data manipulation and **NumPy** for numerical computing, and I'm building stronger practical experience through data science projects.
+
+I'm currently learning **Data Science and Machine Learning**, and I have good knowledge of **Generative AI** — including LLMs, prompt engineering, and building AI-powered applications.
 
 ---
 
@@ -340,6 +307,12 @@ Data
 ├── MariaDB
 ├── Pandas
 └── NumPy
+
+Data Science & AI
+├── Data Science
+├── Machine Learning
+├── Generative AI
+└── Pandas / NumPy
 
 Infrastructure
 ├── Docker
@@ -383,6 +356,12 @@ Security
 
 <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Data%20Science-Learning-6C63FF?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-Strong-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
