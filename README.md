@@ -1,16 +1,432 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**swapnilprakash/swapnilprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:312e81,100:06b6d4&text=Swapnil%20Prakash&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%206%2B%20Years%20of%20Experience&descAlignY=59&descSize=18&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Experience-6%2B%20Years-6366F1?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-0EA5E9?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Primary-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=TypeScript+%7C+Next.js+%7C+React+%7C+Node.js;Building+scalable+full-stack+applications;Backend+APIs+%7C+Cloud+%7C+Docker+%7C+Security;Clean+Architecture+%7C+Maintainable+Code"
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```ts
+const swapnil = {
+  name: "Swapnil Prakash",
+  role: "Full-Stack Software Engineer",
+  experience: "6+ years",
+
+  primaryStack: [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Redux Toolkit",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose",
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "PHP",
+    "Django",
+    "Flask",
+  ],
+
+  deployment: [
+    "Docker",
+    "Vercel",
+    "DigitalOcean",
+    "AWS",
+  ],
+
+  security: [
+    "Burp Suite",
+    "SQL Injection Concepts",
+    "Frida",
+    "Steganography",
+  ],
+
+  currentlyImproving: [
+    "AWS",
+    "Advanced SQL",
+    "Pandas",
+    "NumPy",
+    "Django",
+    "Flask",
+  ],
+};
+```
+
+I am a **Full-Stack Software Engineer with 6+ years of development experience**, primarily focused on the modern JavaScript and TypeScript ecosystem.
+
+My strongest areas are **TypeScript, Next.js, React, Redux Toolkit, Node.js, Express.js, MongoDB and Mongoose**.
+
+I enjoy working across the full application lifecycle — from frontend architecture and APIs to databases, deployment, containers and production environments.
+
+---
+
+<div align="center">
+
+## ⚡ Primary Tech Stack
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,redux,tailwind,nodejs,express,mongodb&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,postman,docker&theme=dark" />
+
+</div>
+
+---
+
+## 🧩 Engineering Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,js&theme=dark" />
+</p>
+
+* Next.js
+* React
+* TypeScript
+* Redux Toolkit
+* Tailwind CSS
+* JavaScript / ES6+
+* Responsive application development
+* Component architecture
+* State management
+* REST API integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php&theme=dark" />
+</p>
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication
+* Middleware
+* Backend business logic
+* PHP
+* Flask
+* Django
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+**MongoDB / Mongoose**
+
+* Schema design
+* Models
+* CRUD
+* Querying
+* API integration
+* Application persistence
+
+**MariaDB**
+
+* SQL fundamentals
+* CRUD operations
+* Basic schema design
+* Relational database concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,vercel,aws,linux,nginx&theme=dark" />
+</p>
+
+* Docker
+* Vercel
+* DigitalOcean
+* AWS fundamentals
+* Linux servers
+* Production deployment
+* Environment configuration
+* Containerized applications
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 Core Strengths
+
+<img src="https://img.shields.io/badge/TypeScript-Professional-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-Strong-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Strong-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-Strong-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-Strong-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Strong-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+
+</div>
+
+---
+
+## 💼 What I Bring
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚡ Full-Stack Development
+
+Building complete applications across:
+
+* Frontend
+* Backend
+* APIs
+* Databases
+* Deployment
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Architecture
+
+Focused on:
+
+* Clean structure
+* Reusable components
+* Maintainability
+* Type safety
+* Scalable codebases
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 Production Mindset
+
+Comfortable with:
+
+* Docker
+* Cloud deployment
+* Linux environments
+* Environment configuration
+* Production workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔐 Application Security
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-Security%20Testing-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Frida-Runtime%20Instrumentation-EF6456?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Injection-Web%20Security-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Steganography-Research-7C3AED?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+Knowledge and practical exposure around:
+
+* Burp Suite
+* SQL injection concepts
+* HTTP request inspection
+* Frida instrumentation
+* Runtime application analysis
+* Steganography
+* Web application security fundamentals
+
+> Security knowledge is focused on learning, defensive testing, debugging and understanding application vulnerabilities.
+
+---
+
+## 🐍 Python & Data Ecosystem
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
+
+<br/>
+
+I have previous experience with **Django and Flask** and understand their fundamentals, although I am currently refreshing them after spending more time in the JavaScript / TypeScript ecosystem.
+
+I also have foundational knowledge of **Pandas and NumPy** and am working toward stronger practical experience.
+
+---
+
+## 🧠 Engineering Snapshot
+
+```text
+Frontend
+├── Next.js
+├── React
+├── TypeScript
+├── Redux Toolkit
+└── Tailwind CSS
+
+Backend
+├── Node.js
+├── Express.js
+├── PHP
+├── Flask
+└── Django
+
+Data
+├── MongoDB
+├── Mongoose
+├── MariaDB
+├── Pandas
+└── NumPy
+
+Infrastructure
+├── Docker
+├── Vercel
+├── DigitalOcean
+├── AWS
+└── Linux
+
+Security
+├── Burp Suite
+├── Frida
+├── SQL Injection Concepts
+└── Steganography
+```
+
+---
+
+<div align="center">
+
+## 🛠️ Development Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,vercel,aws&theme=dark" />
+
+<br/><br/>
+
+`VS Code` • `Git` • `GitHub` • `Postman` • `Docker` • `Linux` • `Vercel` • `DigitalOcean` • `AWS`
+
+</div>
+
+---
+
+## 📚 Currently Sharpening
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-Advanced%20Concepts-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Backend%20Refresh-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+<div align="center">
+
+### `Readable → Maintainable → Scalable → Production Ready`
+
+<br/>
+
+> **Good software isn't just code that works.
+> It's code another engineer can understand, extend and trust.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Swapnil%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/swapnilprakash">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### TypeScript • Next.js • React • Node.js
+
+### Full-Stack Engineering • Cloud • Docker • Application Security
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:312e81,100:06b6d4" width="100%" />
+
+</div>
