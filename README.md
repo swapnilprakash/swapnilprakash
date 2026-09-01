@@ -111,7 +111,7 @@ I enjoy working across the full application lifecycle — from frontend architec
 ### 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark" />
 </p>
 
 **MongoDB / Mongoose**
@@ -123,12 +123,27 @@ I enjoy working across the full application lifecycle — from frontend architec
 * API integration
 * Application persistence
 
-**MariaDB**
+**PostgreSQL**
+
+* SQL fundamentals
+* Relational schema design
+* CRUD operations
+* Queries & joins
+* Indexing concepts
+
+**MySQL / MariaDB**
 
 * SQL fundamentals
 * CRUD operations
 * Basic schema design
 * Relational database concepts
+
+**SQLite**
+
+* Embedded database
+* Local storage
+* Lightweight data persistence
+* Prototyping & small apps
 
 </td>
 
@@ -304,7 +319,9 @@ Backend
 Data
 ├── MongoDB
 ├── Mongoose
-├── MariaDB
+├── PostgreSQL
+├── MySQL / MariaDB
+├── SQLite
 ├── Pandas
 └── NumPy
 
